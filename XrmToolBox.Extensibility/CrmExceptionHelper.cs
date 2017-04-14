@@ -6,7 +6,7 @@
 using System;
 using System.ServiceModel;
 
-namespace XrmToolBox.Extensibility
+namespace XrmToolBox
 {
     public class CrmExceptionHelper
     {
